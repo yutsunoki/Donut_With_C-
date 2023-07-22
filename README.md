@@ -1,5 +1,5 @@
 # sDonut_With_CPP
 
 $$
-c^2
+(N_x, N_y, N_z) = (cos\theta, sin\theta, 0) \dot (cos\phi& 0& sin\phi@ 0& 1& 0@ -sin\phi& 0& cos\phi)
 $$
